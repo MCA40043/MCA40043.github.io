@@ -138,3 +138,94 @@
 		 ==========================
         NEWSLETTER SECTION END
         =========================== -->
+	
+	
+	    <!-- ==========================
+        BLOG SECTION 
+        =========================== -->
+    <section class="text-center section-padding" id="blog">
+          <div class="container">
+        <!-- Headline -->
+        <div class="row">
+              <div class="col-md-12">
+                <h1 class="arrow">My <span>certification</span> are </h1>
+              </div>
+            </div><br><br>
+      
+      <!-- Blog Slider -->
+            <div class="row">
+              <div id="blogSlider">
+                <ul class="slides">
+                  <li>
+            <!-- Blog Entry 1 -->
+                    <div class="col-md-4 wp4">
+                      <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                          <iframe src="https://drive.google.com/file/d/19NHf8zKjr5g8_zobBgCR_mh2stQFek7i/preview" style="height: 400px;"></iframe>
+                        </div>
+                      </div>
+            <br>
+                      <h2>Machine Learning with DevOps</h2><!-- Headline -->
+                      </div>
+          <!-- Blog Entry 2 -->
+                    <div class="col-md-4 wp4 delay-05s">
+                      <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                          <iframe src="https://drive.google.com/file/d/1Ms7i53Ntcg4nbTDadI9nG_oXa8B8Irt9/preview" style=" height: 400px;"></iframe>
+                        </div>
+                      </div>
+            <br>
+                      <h2>DevOps Assembly Line</h2><!-- Headline -->
+                      </div>
+          <!-- Blog Entry 3 -->
+                    <div class="col-md-4 wp4 delay-1s">
+                      <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                          <iframe src="https://drive.google.com/file/d/1l_iA2BcvY7EwrZ_R-aIZx4cMiqwicYsu/preview" style=" height: 400px;"></iframe>
+                        </div>
+                      </div>
+            <br>
+                      <h2>AWS-EKS <br>Workshop</h2><!-- Headline -->
+                      </div>
+                  </li>
+                  <li>
+            <!-- Blog Entry 4 -->
+                    <div class="col-md-4 wp4">
+                      <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                          <iframe src="https://drive.google.com/file/d/1A54wrX90npK6SV2Nqr1wyZ1e54X_-Qyz/preview"  style=" height: 400px;"></iframe>         
+                        </div>
+                      </div>
+            <br>
+                      <h2>Project Certificate</h2><!-- Headline -->
+                      </div>
+          <!-- Blog Entry 5 -->
+                    <div class="col-md-4 wp4 delay-05s">
+                      <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                          <iframe src="https://drive.google.com/file/d/1IrwdU_w6w6mhVGNJSQt_c7lYkfr2rqHJ/preview" style=" height: 400px;"></iframe>
+                        </div>
+                      </div>
+            <br>
+                      <h2>Hybrid Multi-Cloud</h2>
+                      </div>
+          <!-- Blog Entry 6 -->
+                    <div class="col-md-4 wp4 delay-1s">
+                      <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                          <iframe src="https://drive.google.com/file/d/1iY_oy1nOpzqeJQIPck-dQTqcM_FbA4_D/preview" style=" height: 400px;"></iframe>
+                        </div>
+                      </div>
+            <br>
+                      <h2>GCP Workshop</h2><!-- Headline -->
+                      </div>
+                  </li>
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+    <!-- ==========================
+        BLOG SECTION END
+        =========================== -->
