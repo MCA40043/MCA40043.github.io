@@ -3305,12 +3305,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 body {
   font-family: 'Montserrat', sans-serif;
-  background: #2c303a;
 }
 
 .containerbar {
-  margin: 100px auto;
-  width: 500px;
+  margin: 20px auto;
+  width: 450px;
   text-align: center;
 }
 
