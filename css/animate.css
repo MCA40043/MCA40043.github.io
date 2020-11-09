@@ -3358,8 +3358,23 @@ body {
   transition-property: width, background-color;
 }
 
-.progress-moved .progress-bar2 {
+.progress-moved .progress-bar285 {
   width: 85%;
+  background-color: #EF476F;
+  animation: progressAnimation 6s;
+}
+.progress-moved .progress-bar290 {
+  width: 90%;
+  background-color: #EF476F;
+  animation: progressAnimation 6s;
+}
+.progress-moved .progress-bar2100 {
+  width: 100%;
+  background-color: #EF476F;
+  animation: progressAnimation 6s;
+}
+.progress-moved .progress-bar270 {
+  width: 70%;
   background-color: #EF476F;
   animation: progressAnimation 6s;
 }
