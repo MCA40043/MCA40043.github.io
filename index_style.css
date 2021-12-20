@@ -82,7 +82,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 30vh;
-  background-color: #0aaff0;
+  background-color: #110c11;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
@@ -93,12 +93,12 @@ body {
   padding-top: 10px;
   justify-content: left;
   align-items: center;
-  height: 40vh;  background-color: #41575f;
+  height: 40vh;  background-color: #110c11;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
 .card-dif {
-  background-color: #0f1113;
+  background-color: #110c11;
   height: 32rem;
   border-radius: 5px;
   display: flex;
